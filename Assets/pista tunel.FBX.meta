@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 26e155a6f2981324d82d62e623f1044f
+timeCreated: 1445720925
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: borde der
+    100002: borde izq
+    100004: COL009
+    100006: COL010
+    100008: COL011
+    100010: COL012
+    100012: COL013
+    100014: COL014
+    100016: COL015
+    100018: COL016
+    100020: COL017
+    100022: COL8
+    100024: "monta\xF1a"
+    100026: pista
+    100028: //RootNode
+    100030: Plane001
+    100032: tunel
+    400000: borde der
+    400002: borde izq
+    400004: COL009
+    400006: COL010
+    400008: COL011
+    400010: COL012
+    400012: COL013
+    400014: COL014
+    400016: COL015
+    400018: COL016
+    400020: COL017
+    400022: COL8
+    400024: "monta\xF1a"
+    400026: pista
+    400028: //RootNode
+    400030: Plane001
+    400032: tunel
+    2300000: borde der
+    2300002: borde izq
+    2300004: COL009
+    2300006: COL010
+    2300008: COL011
+    2300010: COL012
+    2300012: COL013
+    2300014: COL014
+    2300016: COL015
+    2300018: COL016
+    2300020: COL017
+    2300022: COL8
+    2300024: "monta\xF1a"
+    2300026: pista
+    2300028: Plane001
+    2300030: tunel
+    3300000: borde der
+    3300002: borde izq
+    3300004: COL009
+    3300006: COL010
+    3300008: COL011
+    3300010: COL012
+    3300012: COL013
+    3300014: COL014
+    3300016: COL015
+    3300018: COL016
+    3300020: COL017
+    3300022: COL8
+    3300024: "monta\xF1a"
+    3300026: pista
+    3300028: Plane001
+    3300030: tunel
+    4300000: "monta\xF1a"
+    4300002: COL8
+    4300004: COL009
+    4300006: COL010
+    4300008: COL011
+    4300010: COL012
+    4300012: COL013
+    4300014: COL014
+    4300016: COL015
+    4300018: COL016
+    4300020: COL017
+    4300022: Plane001
+    4300024: pista
+    4300026: borde der
+    4300028: borde izq
+    4300030: tunel
+    6400000: borde der
+    6400002: borde izq
+    6400004: COL009
+    6400006: COL010
+    6400008: COL011
+    6400010: COL012
+    6400012: COL013
+    6400014: COL014
+    6400016: COL015
+    6400018: COL016
+    6400020: COL017
+    6400022: COL8
+    6400024: "monta\xF1a"
+    6400026: pista
+    6400028: Plane001
+    6400030: tunel
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 16e80d398789bba4ca97637539e269a9
+timeCreated: 1438828389
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Arma Adelante
+    100002: Arma Adelante 2
+    100004: Arma Atras
+    100006: Box01
+    100008: Box02
+    100010: Box04
+    100012: Box05
+    100014: Centro
+    100016: Chasis
+    100018: //RootNode
+    100020: i_wheel
+    100022: interior
+    100024: 'Lugar Rueda Adelante '
+    100026: Lugar Rueda Atras
+    100028: Silla
+    100030: Thruster Atras
+    100032: Thruster Atras 2
+    100034: Volante
+    100036: Volante 1
+    100038: Volante 2
+    400000: Arma Adelante
+    400002: Arma Adelante 2
+    400004: Arma Atras
+    400006: Box01
+    400008: Box02
+    400010: Box04
+    400012: Box05
+    400014: Centro
+    400016: Chasis
+    400018: //RootNode
+    400020: i_wheel
+    400022: interior
+    400024: 'Lugar Rueda Adelante '
+    400026: Lugar Rueda Atras
+    400028: Silla
+    400030: Thruster Atras
+    400032: Thruster Atras 2
+    400034: Volante
+    400036: Volante 1
+    400038: Volante 2
+    2300000: Arma Adelante
+    2300002: Arma Adelante 2
+    2300004: Arma Atras
+    2300006: Box01
+    2300008: Box02
+    2300010: Box04
+    2300012: Box05
+    2300014: Centro
+    2300016: Chasis
+    2300018: i_wheel
+    2300020: interior
+    2300022: 'Lugar Rueda Adelante '
+    2300024: Lugar Rueda Atras
+    2300026: Silla
+    2300028: Thruster Atras
+    2300030: Thruster Atras 2
+    2300032: Volante 2
+    3300000: Arma Adelante
+    3300002: Arma Adelante 2
+    3300004: Arma Atras
+    3300006: Box01
+    3300008: Box02
+    3300010: Box04
+    3300012: Box05
+    3300014: Centro
+    3300016: Chasis
+    3300018: i_wheel
+    3300020: interior
+    3300022: 'Lugar Rueda Adelante '
+    3300024: Lugar Rueda Atras
+    3300026: Silla
+    3300028: Thruster Atras
+    3300030: Thruster Atras 2
+    3300032: Volante 2
+    4300000: Chasis
+    4300002: interior
+    4300004: Silla
+    4300006: Centro
+    4300008: Thruster Atras 2
+    4300010: Arma Adelante
+    4300012: Arma Atras
+    4300014: 'Lugar Rueda Adelante '
+    4300016: Lugar Rueda Atras
+    4300018: Arma Adelante 2
+    4300020: Box01
+    4300022: Box02
+    4300024: Box04
+    4300026: Box05
+    4300028: i_wheel
+    4300030: Volante
+    4300032: Thruster Atras
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

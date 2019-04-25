@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cars>
+  <Custom_Cars>
+    <ID>0</ID>
+    <Chasis>4</Chasis>
+    <Wheels>0</Wheels>
+    <Front_Component>0</Front_Component>
+    <Back_Component>0</Back_Component>
+  </Custom_Cars>
+  <Custom_Cars>
+    <ID>1</ID>
+    <Chasis>4</Chasis>
+    <Wheels>0</Wheels>
+    <Front_Component>0</Front_Component>
+    <Back_Component>0</Back_Component>
+  </Custom_Cars>
+  <Custom_Cars>
+    <ID>2</ID>
+    <Chasis>0</Chasis>
+    <Wheels>0</Wheels>
+    <Front_Component>0</Front_Component>
+    <Back_Component>0</Back_Component>
+  </Custom_Cars>
+  <Custom_Cars>
+    <ID>3</ID>
+    <Chasis>0</Chasis>
+    <Wheels>0</Wheels>
+    <Front_Component>0</Front_Component>
+    <Back_Component>0</Back_Component>
+  </Custom_Cars>
+  <Custom_Cars>
+    <ID>4</ID>
+    <Chasis>0</Chasis>
+    <Wheels>0</Wheels>
+    <Front_Component>0</Front_Component>
+    <Back_Component>0</Back_Component>
+  </Custom_Cars>
+  <Custom_Cars>
+    <ID>5</ID>
+    <Chasis>0</Chasis>
+    <Wheels>0</Wheels>
+    <Front_Component>0</Front_Component>
+    <Back_Component>0</Back_Component>
+  </Custom_Cars>
+</Cars>
